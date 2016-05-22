@@ -26,3 +26,8 @@ nightmare
  .click('#button_that_submits_form_for_upload')
  ...
 ```
+
+## References/Credits
+
+  * @Zn4rk for [bringing this method to my attention](https://github.com/segmentio/nightmare/issues/235#issuecomment-214226205)
+  * @svbatalov for the [original implementation](https://github.com/electron/electron/issues/749#issuecomment-213822739)
